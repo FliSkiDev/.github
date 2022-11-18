@@ -24,12 +24,12 @@
         Zostaw gwiazdkę ⭐ pod naszym <a href="https://github.com/FliSkiDev/FliSki/">głównym repozytorium 🎄</a>
     </li>
     <li>
-        Dołącz na naszego <a href="https://discord.gg/unknown">Discorda</a> 🔧
+        Dołącz na naszego <a href="https://discord.gg/unknown001">Discorda</a> 🔧
     </li>
     <li>
         Zasubskrybuj nas na <a href="https://youtube.com/@FliSki">YouTube</a> ❤️
     </li>
     <li>
-        Zafollowuj nas na <a href="https://twitter.com/FliSki">Twitterze</a> 🐦
+        Zafollowuj nas na <a href="https://twitter.com/FliSkiDev">Twitterze</a> 🐦
     </li>
 </ul>
