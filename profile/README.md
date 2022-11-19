@@ -3,7 +3,7 @@
 <br />
 </p>
 <p align="center">
-<b> Firma zajmująca się oprogramowaniem dla śledzenia samolotów </b>
+<b> Firma zajmująca się oprogramowaniem do śledzenia samolotów </b>
 </p>
 <br />
 <br />
