@@ -3,7 +3,7 @@
 <br />
 </p>
 <p align="center">
-<b> Firma zajmująca się oprogramowaniem do śledzenia samolotów </b>
+<b> Drużyna zajmująca się tworzeniem aplikacji webowych itp. </b>
 </p>
 <br />
 <br />
